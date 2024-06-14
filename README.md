@@ -16,14 +16,14 @@ commuting needs within Pune and Pune-PCMC areas.
 5. Simple Activation Process: Experience hassle-free ticket activation with a straightforward
 code-entry process.
 
-### Note:
-
 The technologies used include:
 - HTML
 - CSS
 - PHP
 - JavaScript (JS)
 - MySQL
+
+### Note:
 
 This website is a project created for academic purposes. It is designed to be run locally and is not hosted on any domain. To get an idea of the website's design and functionality, please check the images folder.
 
