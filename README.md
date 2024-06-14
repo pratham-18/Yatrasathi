@@ -1,4 +1,4 @@
-# Yatrasathi
+# Yatrasathi ![Website Logo](/images/Website%20Logo.PNG)
 Yatrasathi is an innovative online platform designed to streamline bus ticket reservations and pass options for the Pune local bus service. With a focus on convenience and affordability, Yatrasathi offers a user-friendly interface and range of pass choices.
 
 
@@ -15,4 +15,4 @@ commuting needs within Pune and Pune-PCMC areas.
 5. Simple Activation Process: Experience hassle-free ticket activation with a straightforward
 code-entry process.
 
-![Website Logo](/images/Website%20Logo.PNG)
+
