@@ -20,5 +20,13 @@ code-entry process.
 
 This website is a project created for academic purposes. It is designed to be run locally and is not hosted on any domain. To get an idea of the website's design and functionality, please check the images folder.
 
+The technologies used include:
+- HTML
+- CSS
+- PHP
+- JavaScript (JS)
+- MySQL
+
 The images folder contains screenshots and design elements used in the project.
+
 
