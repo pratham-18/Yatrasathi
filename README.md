@@ -14,3 +14,5 @@ allowing travelers to select between Pune city limited or city-wide passes based
 commuting needs within Pune and Pune-PCMC areas.
 5. Simple Activation Process: Experience hassle-free ticket activation with a straightforward
 code-entry process.
+
+(images/Website Logo.png)
