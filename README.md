@@ -16,4 +16,6 @@ commuting needs within Pune and Pune-PCMC areas.
 5. Simple Activation Process: Experience hassle-free ticket activation with a straightforward
 code-entry process.
 
+### Note:
+This website is a project created for academic purposes
 
