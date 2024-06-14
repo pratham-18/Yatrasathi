@@ -17,5 +17,8 @@ commuting needs within Pune and Pune-PCMC areas.
 code-entry process.
 
 ### Note:
-This website is a project created for academic purposes
+
+This website is a project created for academic purposes as part of [mention your course or program name]. It is designed to be run locally and is not hosted on any domain. To get an idea of the website's design and functionality, please check the images folder.
+
+The images folder contains screenshots and design elements used in the project.
 
