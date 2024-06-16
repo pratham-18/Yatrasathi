@@ -5,8 +5,6 @@ Yatrasathi is an innovative online platform designed to streamline bus ticket re
 ![Website Logo](images/Website%20Logo.PNG)
 
 
-Top 6 problems faced by citizens in Pune Local bus services:
-
 The offline ticketing system in local bus transportation can present several challenges:
 
 1.Long Queues and Waiting Times: Offline ticketing systems often lead to long queues and waiting times inside the bus, particularly during peak hours or busy travel periods. This inconvenience can result in frustration and wasted time for passengers.
