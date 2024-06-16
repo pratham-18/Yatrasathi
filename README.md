@@ -27,7 +27,7 @@ The technologies used include:
 - MySQL
 
 
-Purpose
+Purpose:
 Our mission is to transform local bus reservations in Pune by offering a user-centric website that revolutionizes the booking process. Through our online platform, we strive to provide unparalleled convenience and accessibility to users, simplifying their journey planning. With just a few clicks, users can effortlessly search for available buses, select their desired pick-up and drop-off points, and choose the most convenient date and time for their travel. By offering real-time information on bus availability, we empower users to make informed decisions, ensuring a seamless and hassle-free experience.
 
 
