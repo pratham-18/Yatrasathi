@@ -4,32 +4,6 @@ Yatrasathi is an innovative online platform designed to streamline bus ticket re
 
 ![Website Logo](images/Website%20Logo.PNG)
 
-Key Features:-
-1. Effortless Online Booking: Yatrasathi offers a user-friendly online platform that simplifies bus
-ticket reservations for the ultimate convenience.
-2. Flexible Travel Anytime: Travel at your own pace—book a specific bus and journey at any time
-during the booking date with no time restrictions.
-3. Paperless Electronic Tickets: Experience the eco-friendly and convenient world of paperless,
-electronically generated bus tickets for a greener tomorrow.
-4. Personalized Daily Pass Options: Yatrasathi offers daily passes with customizable options,
-allowing travelers to select between Pune city limited or city-wide passes based on their
-commuting needs within Pune and Pune-PCMC areas.
-5. Simple Activation Process: Experience hassle-free ticket activation with a straightforward
-code-entry process.
-
-
-The technologies used include:
-- HTML
-- CSS
-- Bootstrap
-- PHP
-- JavaScript (JS)
-- MySQL
-
-
-Purpose:
-Our mission is to transform local bus reservations in Pune by offering a user-centric website that revolutionizes the booking process. Through our online platform, we strive to provide unparalleled convenience and accessibility to users, simplifying their journey planning. With just a few clicks, users can effortlessly search for available buses, select their desired pick-up and drop-off points, and choose the most convenient date and time for their travel. By offering real-time information on bus availability, we empower users to make informed decisions, ensuring a seamless and hassle-free experience.
-
 
 Top 6 problems faced by citizens in Pune Local bus services
 
@@ -49,6 +23,34 @@ The offline ticketing system in local bus transportation can present several cha
 Addressing these problems by transitioning to an online ticketing system can significantly enhance the convenience, efficiency, and overall experience for passengers and bus operators alike. 
 
 
+
+
+Purpose:
+Our mission is to transform local bus reservations in Pune by offering a user-centric website that revolutionizes the booking process. Through our online platform, we strive to provide unparalleled convenience and accessibility to users, simplifying their journey planning. With just a few clicks, users can effortlessly search for available buses, select their desired pick-up and drop-off points, and choose the most convenient date and time for their travel. By offering real-time information on bus availability, we empower users to make informed decisions, ensuring a seamless and hassle-free experience.
+
+
+Key Features:-
+1. Effortless Online Booking: Yatrasathi offers a user-friendly online platform that simplifies bus
+ticket reservations for the ultimate convenience.
+2. Flexible Travel Anytime: Travel at your own pace—book a specific bus and journey at any time
+during the booking date with no time restrictions.
+3. Paperless Electronic Tickets: Experience the eco-friendly and convenient world of paperless,
+electronically generated bus tickets for a greener tomorrow.
+4. Personalized Daily Pass Options: Yatrasathi offers daily passes with customizable options,
+allowing travelers to select between Pune city limited or city-wide passes based on their
+commuting needs within Pune and Pune-PCMC areas.
+5. Simple Activation Process: Experience hassle-free ticket activation with a straightforward
+code-entry process.
+
+
+
+The technologies used include:
+- HTML
+- CSS
+- Bootstrap
+- PHP
+- JavaScript (JS)
+- MySQL
 
 
 ### Note:
