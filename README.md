@@ -5,7 +5,7 @@ Yatrasathi is an innovative online platform designed to streamline bus ticket re
 ![Website Logo](images/Website%20Logo.PNG)
 
 
-Top 6 problems faced by citizens in Pune Local bus services
+Top 6 problems faced by citizens in Pune Local bus services:
 
 The offline ticketing system in local bus transportation can present several challenges:
 
