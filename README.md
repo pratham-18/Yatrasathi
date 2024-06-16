@@ -20,9 +20,11 @@ code-entry process.
 The technologies used include:
 - HTML
 - CSS
+- Bootstrap
 - PHP
 - JavaScript (JS)
 - MySQL
+
 
 ### Note:
 
