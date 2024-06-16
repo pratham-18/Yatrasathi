@@ -8,17 +8,18 @@ Yatrasathi is an innovative online platform designed to streamline bus ticket re
 Top 6 problems faced by citizens in Pune Local bus services
 
 The offline ticketing system in local bus transportation can present several challenges:
+
 1.Long Queues and Waiting Times: Offline ticketing systems often lead to long queues and waiting times inside the bus, particularly during peak hours or busy travel periods. This inconvenience can result in frustration and wasted time for passengers.
 
 2.Limited Ticketing Locations: Offline ticketing systems typically require passengers to purchase tickets from only one conductor inside the bus. This limitation can make it inconvenient for passengers to access tickets, especially if they are not in close proximity to bus conductor.
 
-3. Cash Transactions: Cash transactions are the norm in offline ticketing systems, requiring passengers to carry sufficient cash to purchase tickets. This can be inconvenient and pose security risks, as passengers need to ensure they have the exact change or visit ATMs to withdraw cash.
+3.Cash Transactions: Cash transactions are the norm in offline ticketing systems, requiring passengers to carry sufficient cash to purchase tickets. This can be inconvenient and pose security risks, as passengers need to ensure they have the exact change or visit ATMs to withdraw cash.
 
 4.Ticket Misplacement or Loss: Paper tickets issued in offline systems can be easily misplaced, lost, or damaged. This can cause inconvenience and may require passengers to repurchase tickets or face challenges during ticket inspections.
 
-5. Ticketing Fraud and Fare Evasion: Offline systems can be prone to ticketing fraud and fare evasion, as physical tickets can be easily duplicated or used improperly. This results in revenue loss for the bus operators and may lead to higher fares for honest passengers.
+5.Ticketing Fraud and Fare Evasion: Offline systems can be prone to ticketing fraud and fare evasion, as physical tickets can be easily duplicated or used improperly. This results in revenue loss for the bus operators and may lead to higher fares for honest passengers.
 
-6. Manual Record-Keeping and Reporting: Offline ticketing systems often involve manual record-keeping and reporting processes for ticket sales and passenger counts. This can be time-consuming, error-prone, and may hinder efficient data analysis and decision-making.
+6.Manual Record-Keeping and Reporting: Offline ticketing systems often involve manual record-keeping and reporting processes for ticket sales and passenger counts. This can be time-consuming, error-prone, and may hinder efficient data analysis and decision-making.
 
 Addressing these problems by transitioning to an online ticketing system can significantly enhance the convenience, efficiency, and overall experience for passengers and bus operators alike. 
 
